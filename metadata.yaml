@@ -1,0 +1,30 @@
+_repo: The-Adventures-of-Paddy-the-Beaver_2493
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Everyone is curious! Farmer Brown's boy cannot figure it out. Then Peter
+  Rabbit and Jerry Muskrat set their minds to the problem and try to wrestle it to
+  the ground. What is happening in the peaceful meadow where the stream flowed so
+  quietly before--and what does Paddy Beaver have to do with it?
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2001-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Beavers -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PS'
+title: The Adventures of Paddy the Beaver
+url: http://www.gutenberg.org/ebooks/2493
