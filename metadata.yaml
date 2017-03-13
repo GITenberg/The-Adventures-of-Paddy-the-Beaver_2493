@@ -1,5 +1,8 @@
 _repo: The-Adventures-of-Paddy-the-Beaver_2493
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -13,6 +16,8 @@ description: Everyone is curious! Farmer Brown's boy cannot figure it out. Then 
   Rabbit and Jerry Muskrat set their minds to the problem and try to wrestle it to
   the ground. What is happening in the peaceful meadow where the stream flowed so
   quietly before--and what does Paddy Beaver have to do with it?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2493#The-Adventures-of-Paddy-the-Beaver
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2001-02-01'
 gutenberg_type: Text
