@@ -1,5 +1,5 @@
 _repo: The-Adventures-of-Paddy-the-Beaver_2493
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcsh 'Beavers -- Juvenile fiction'
 - !lcsh 'Animals -- Juvenile fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Adventures of Paddy the Beaver
 url: http://www.gutenberg.org/ebooks/2493
